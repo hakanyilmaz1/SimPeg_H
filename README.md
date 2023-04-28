@@ -8,7 +8,7 @@ We use theses SimPeg examples:
 -Sparse Norm Inversion for Total Magnetic Intensity Data on a Tensor Mesh 
 -Slicer demo
 
-The pictures are from Emingma 7.8 for the same datas but with theses (17.55.11.jpeg, 17.55.12.jpeg)
+The pictures are from Emigma 7.8 for the same datas but with theses (17.55.11.jpeg, 17.55.12.jpeg)
 
 
 
